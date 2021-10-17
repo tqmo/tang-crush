@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Sơn hà rộng lớn, thiên địa bao la, Trường Khanh tâm duyệt công tử, muốn cùng công tử một đời kề cạnh, bảo hộ chu toàn, công tử có ưng không?',
     btnReply: 'Gửi Trường Khanh',
     reply: 'Tại hạ thập phần mãn ý',
-    mess: 'Yêu người',
+    mess: 'Yêu bé',
     messDesc: '18/10 vui vẻ',
     btnAccept: '18/10 vui vẻ',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
