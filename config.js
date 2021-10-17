@@ -4,7 +4,7 @@ const CONFIG = {
     kim bất hoán,
     Thệ dục bách hợp
     đáo thiên hoang.`,
-    btnIntro: 'haiz',
+    btnIntro: 'Tiếp đi',
     title: 'Huyền công tử, tại hạ biết công tử say mê Trường Khanh',
     desc: 'Huyền công tử, có nguyện ý vì Trường Khanh mà sinh một bầy hài tử không?',
     btnYes: 'Tại hạ nguyện ý',
